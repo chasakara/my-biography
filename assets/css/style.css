@@ -1,0 +1,47 @@
+/*-- Navigation Bar --*/
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    padding: 3px;
+    background-color: black;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+}
+
+li a:hover{
+    background-color: rgb(58, 56, 53);
+}
+
+/*-- Me --*/
+
+.profile-image{
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.profile-image img{
+    width: 495px;
+    height: 295px;
+}
+
+/*-- Achievements --*/
+
+/*--Contact Form --*/
+
+.contact-form{
+    padding: 5px;
+    border: 1px solid black;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+/*-- Footer --*/
